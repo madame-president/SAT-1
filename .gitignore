@@ -1,0 +1,5 @@
+# Ignore environment variables
+.env
+
+# Ignore folder used for my personal tests
+docs/
