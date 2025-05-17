@@ -80,11 +80,24 @@ It's not about *"who like transaparency"*, but rather: *"who has strong enough i
 
 2. Install Git and Github CLI
 
-3. Clone the repository ```gh repo clone madame-president/SAT-1``` and go to the directory ```cd SAT-1```
+3. Clone the repository:
 
-4. Install dependencies ```pip install -r requirements.txt```
+```bash
+gh repo clone madame-president/SAT-1
+cd SAT-1
+```
 
-5. Run the application ```streamlit run main.py```
+4. Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+5. Run the application:
+
+```bash
+streamlit run main.py
+```
 
 ---
 
