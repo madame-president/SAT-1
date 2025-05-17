@@ -60,8 +60,7 @@ It's not about *"who like transaparency"*, but rather: *"who has strong enough i
 
     > A single address-level report is not directly actionable on its own, however, when aggregated and combined with other market data, it can provide valueble insights of Bitcoin market dynamics.
 
-    **Fun fact** This is particularly the work I enjoy doing the most. In the past few years, I've been fortunate enough to assist PM's validate their market strategies, by creating and testing models built with dumps of Bitcoin data. For example, my most recent project involved creating a model that would calculate rolling CAGR assuming hypothetical weekly Bitcoin purchases at a predefined time. The data used was historical pricing, however, it can be applied at the address-level.
-
+    **Fun fact: This is the work I enjoy doing the most.** For example, my most recent project involved creating a model that would calculate rolling CAGR assuming hypothetical weekly Bitcoin purchases at a predefined time. The data used was historical pricing, however, it can be applied at the address-level.
 
 6. Bitcoin custodians (optional)
 
