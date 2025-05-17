@@ -34,7 +34,11 @@ Under IFRS, US GAAP, and GIPS, Bitcoin is relegated to a line item—often strip
 
 ## 🧠 Use Cases
 
-Creating a fully-Bitcoin reporting standard is bloody difficult. IFRS and US GAAP have a place for Bitcoin: inventory or intangible assets. Under GIPS, Bitcoin would appear as a line item within portfolio composition. High-level disclousures suffice investors (some): "X amount of Bitcoin, valued at Y amount USD, is held at Custody Z." Address-level disclosures also come with security risks because publicly-disclosing wallet addresses increases the risk of: phishing attacks, exposure of vulnerabiluties (lack of multisig, for example), and tracking of internal financial flows. A framework for disclosing address-level detail seems a bit too much. So why would I still want to build it?
+Creating a fully-Bitcoin reporting standard is bloody difficult. 
+
+IFRS and US GAAP have a place for Bitcoin: inventory or intangible assets. Under GIPS, Bitcoin would appear as a line item within portfolio composition. High-level disclousures suffice investors (some): "X amount of Bitcoin, valued at Y amount USD, is held at Custody Z."
+
+Address-level disclosures also come with security risks because publicly-disclosing wallet addresses increases the risk of: phishing attacks, exposure of vulnerabiluties (lack of multisig, for example), and tracking of internal financial flows. A framework for disclosing address-level detail seems a bit too much. So why would I still want to build it?
 
 It's not about *"who like transaparency"*, but rather: *"who has strong enough incentives to pay for detailed, verifiable, and auditable address-level reporting?"*
 
