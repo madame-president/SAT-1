@@ -79,7 +79,7 @@ It's not about *"who like transaparency"*, but rather: *"who has strong enough i
 ## 🏃‍♂️ Running the application instructions
 
 1. Install Python
-    - Check the box that says "Add python.exe to PATH"
+    - Check the box that says *"Add python.exe to PATH"*
 
 2. Install Git and Github CLI
 
