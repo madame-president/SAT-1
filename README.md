@@ -16,7 +16,7 @@ Under IFRS, US GAAP, and GIPS, Bitcoin is relegated to a line item—often strip
 ## 📦 Application Features
 
 - 🔐 **Runs Locally Only** — Your data never leaves your machine.
-- 📊 **Excel Report Generator** — Summary + transaction sheet, with numerical format for easy cell manipulation.
+- 📊 **Excel Report Generator** — Address summary and historical transaction data in one workbook.
 - 🧾 **Detailed On-Chain Context** — Address type, balance, transaction log, unspent outputs.
 - 🧮 **Accurate USD Conversion** — Historical market price included in report.
 
